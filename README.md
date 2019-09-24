@@ -1,4 +1,4 @@
-# ECN
+# ECN 以太坊中国
 About ECN
 
 Ethereum Community Network
