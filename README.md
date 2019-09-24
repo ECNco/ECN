@@ -23,7 +23,7 @@ Ethereum Community Network
 
 [微博](https://weibo.com/EthereumCN)
 
-微信公众号： ####ETH中文网
+微信公众号： ##### ETH中文网
 
 
 
