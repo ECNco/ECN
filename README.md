@@ -24,9 +24,11 @@ Ethereum Community Network
 
 [微博](https://weibo.com/EthereumCN)
 
-[ECN](https://ecn.co)
+[ECN官网](https://ecn.co)
+
+
 微信公众号： 
-##### ETH中文网
+##### ETH中文站
 
 
 
