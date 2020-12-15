@@ -20,10 +20,11 @@ Ethereum Community Network
 
 [以太坊中文网 Ethereum.cn](https://ethereum.cn)
 
-[Twitter](https://twitter.com/Ethereum_CN)
+[Twitter](https://twitter.com/EthereumCN)
 
 [微博](https://weibo.com/EthereumCN)
 
+[ECN](https://ecn.co)
 微信公众号： 
 ##### ETH中文网
 
