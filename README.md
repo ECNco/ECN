@@ -1,4 +1,5 @@
-# ECN 以太坊中国
+# ECN ｜ Ethereum Community Network
+
 About ECN
 
 Ethereum Community Network
@@ -18,7 +19,7 @@ Ethereum Community Network
 
 #### 链接Link
 
-[以太坊中文网 Ethereum.cn](https://ethereum.cn)
+[以太坊中文网](https://ethereum.cn)
 
 [Twitter](https://twitter.com/EthereumCN)
 
